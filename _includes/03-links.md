@@ -1,1 +1,1 @@
-[RCartax]{https://github.com/rcartax}
+[RCartax](https://github.com/rcartax)
